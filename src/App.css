@@ -1,0 +1,14 @@
+.app {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.hidden {
+  display: none;
+}
+
+img {
+  max-width: 300px;
+  max-height: 300px;
+  margin-top: 20px;
+}
